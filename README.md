@@ -19,7 +19,7 @@ Analysis divided into following Categories
 
 
 ![image](https://user-images.githubusercontent.com/38867261/132897736-58b47578-df63-441c-96a4-fed8145395ae.png)
-Problem Statement: Provide Country wise list containf Total Cases, New cases, Total deaths and New deaths
+Problem Statement: Provide Country wise list containg Total Cases, New cases, Total deaths and New deaths
 
 Analysis divided into following Categories
 1) Table representing county name along with other columns New cases, New deaths, Total cases, Total deaths till now etc
